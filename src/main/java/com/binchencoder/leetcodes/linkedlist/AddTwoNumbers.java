@@ -37,6 +37,10 @@ public class AddTwoNumbers {
       }
     }
 
+    if (carry > 0) {
+      curr.next = new ListNode(carry);
+    }
+
     return dummyHead.next;
   }
 
