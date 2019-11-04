@@ -1,4 +1,4 @@
-package com.chenbin.study.sort;
+package com.binchencoder.study.sort;
 
 import java.util.Arrays;
 
