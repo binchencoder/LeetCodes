@@ -17,9 +17,9 @@
    原因：342 + 465 = 807
    ```
 
-   链接：https://leetcode-cn.com/problems/add-two-numbers
+   leetcode链接：https://leetcode-cn.com/problems/add-two-numbers
    
-   GitHub: https://github.com/binchencoder/LeetCodes/blob/master/src/main/java/com/binchencoder/leetcodes/linkedlist/AddTwoNumbers.java
+   github源码: https://github.com/binchencoder/LeetCodes/blob/master/src/main/java/com/binchencoder/leetcodes/linkedlist/AddTwoNumbers.java
 
 # Interview
 
@@ -29,4 +29,3 @@
 
 ![20191104](./ByteDance/bytedance20191104.jpg)
 																						**2019/11/04**
-
