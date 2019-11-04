@@ -1,7 +1,7 @@
 # LeetCodes
 [leetcode](https://leetcode-cn.com/) 刷题
 
-## Linked List
+## Linked List(链表)
 
 1. 给出两个**非空**的链表用来表示两个非负的整数。其中，它们各自的位数是按照**逆序**的方式存储的，并且它们的每个节点只能存储**一位**数字。
 
