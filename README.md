@@ -24,3 +24,9 @@
 # Interview
 
 互联网大厂面试笔试题
+
+## ByteDance
+
+![20191104](./ByteDance/bytedance20191104.jpg)
+																						**2019/11/04**
+
