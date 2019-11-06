@@ -5,7 +5,7 @@ package com.binchencoder.interview.bytedance;
  *
  * 题目内容来源: ByteDance/bytedance20191104.jpg
  */
-public class ByteDance191104 {
+public class ByteDancePolygon {
 
   /**
    * 计算边的长度
