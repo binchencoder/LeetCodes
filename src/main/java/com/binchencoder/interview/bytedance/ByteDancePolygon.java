@@ -3,7 +3,7 @@ package com.binchencoder.interview.bytedance;
 /**
  * Created by chenbin at 2019/11/04
  *
- * 题目内容来源: ByteDance/bytedance20191104.jpg
+ * 题目内容来源: ByteDance/bytedance20191104-1.jpg
  */
 public class ByteDancePolygon {
 

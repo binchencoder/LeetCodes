@@ -2,6 +2,11 @@ package com.binchencoder.interview.bytedance;
 
 import java.util.Stack;
 
+/**
+ * Created by chenbin at 2019/11/04
+ *
+ * 题目内容来源: ByteDance/bytedance20191104-2.jpg
+ */
 public class ByteDanceLinkedList {
 
   static int nodeLength(ListNode node) {
