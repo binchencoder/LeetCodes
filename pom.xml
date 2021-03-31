@@ -28,7 +28,7 @@
 		<springframework.version>5.2.1.RELEASE</springframework.version>
 
 		<!-- Google guava dependency versions -->
-		<google.guava.version>28.1-jre</google.guava.version>
+		<google.guava.version>29.0-jre</google.guava.version>
 	</properties>
 
 	<dependencies>
